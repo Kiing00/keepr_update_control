@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.1",
   "min_version": "1.0.0",
-  "update_url": "https://github.com/Kiing00/OTA/releases/download/v.1.10.2/app-release.apk",
+  "update_url": "https://github.com/Kiing00/keepr_update_control/releases/download/v.1.0.1/app-release.apk",
   "changelog": [
     "Welcome to Keepr App",
     "This is the first release of Keepr App, and we are excited to share it with you!",
